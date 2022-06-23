@@ -1,4 +1,6 @@
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   <div align="center">
   <a href="https://github.com/CherifiMi">
@@ -6,3 +8,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherifiMi&hide=css,scss,html&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
