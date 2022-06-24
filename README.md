@@ -19,7 +19,7 @@ I am a Full Stack Software Developer with 5+ years of experience in designing an
 #### 🛠️Tools and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,dotnet,figma,heroku,idea,rust,mongodb,ktor,java,kotlin,visualstudio,sqlite,vscode)](https://skillicons.dev)
 
-#### How to reach me 📥
+#### 📬How to reach me 
 -   Discord: mito#4310
 -   Email: cherifi154949@gmail.com
 -   LinkedIn: [Mouafak Cherifi](https://www.linkedin.com/in/cherifi-mouafak/)
