@@ -1,14 +1,14 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-I am a Full Stack Developer with 5+ years of experience in designing and building Applications.
+I am a Full Stack Developer with 5+ years of experience in designing and building applications.
 
 - ⚙I'm currently mainly working with:
     - [Android Studio](https://developer.android.com/studio) for Mobile
-    - [Ktor](https://ktor.io) for Web  
-    - [Compose](https://www.jetbrains.com/lp/compose-mpp/) for Disktop
+    - [Ktor](https://ktor.io) for Web
+    - [Compose](https://www.jetbrains.com/lp/compose-mpp/) for Desktop
     - [Figma](https://www.figma.com) for UI/UX
     
-- 🌱I’m currently learning [Rust](https://doc.rust-lang.org/book/) and [Data structure and Algorithm](leetcode.com/problemset/all/)
+- 🌱I’m currently learning [Rust](https://doc.rust-lang.org/book/) and [data structures and algorithma](leetcode.com/problemset/all/)
 
 
 ### 👨‍💻Languages
@@ -32,7 +32,7 @@ I am a Full Stack Developer with 5+ years of experience in designing and buildin
 -   Discord: mito#4310
 -   Email: cherifi154949@gmail.com
 -   LinkedIn: [Mouafak Cherifi](https://www.linkedin.com/in/cherifi-mouafak/)
--   UpWork: [Cherifi M.](https://www.upwork.com/freelancers/~01b7bc5dc0a1552c27)
+-   UpWork: [Cherifi M](https://www.upwork.com/freelancers/~01b7bc5dc0a1552c27)
   
 
 </details>
