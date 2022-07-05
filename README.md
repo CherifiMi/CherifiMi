@@ -13,7 +13,7 @@ I am a Full Stack Developer with 5+ years of experience in designing and buildin
 
 ### 👨‍💻Languages
 
-  <img height=160eo src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherifiMi&hide=css,scss,html&hide_title=true&hide_border=true&langs_count=5&layout=compact&bg_color=00000000&text_color=ffffff"/>
+  <img height=160eo src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherifiMi&hide=makefile,css,scss,html&hide_title=true&hide_border=true&langs_count=5&layout=compact&bg_color=00000000&text_color=ffffff"/>
   
 
  
