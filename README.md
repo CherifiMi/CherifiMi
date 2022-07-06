@@ -32,7 +32,6 @@ I am a Full Stack Developer with 5+ years of experience in designing and buildin
 -   Discord: mito#4310
 -   Email: cherifi154949@gmail.com
 -   LinkedIn: [Mouafak Cherifi](https://www.linkedin.com/in/cherifi-mouafak/)
--   UpWork: [Cherifi M](https://www.upwork.com/freelancers/~01b7bc5dc0a1552c27)
   
 
 </details>
