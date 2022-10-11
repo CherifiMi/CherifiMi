@@ -1,7 +1,7 @@
 ### Hi   
 - ⚙I'm currently mainly working with:
     - [Android Studio](https://developer.android.com/studio) for Mobile
-    - [Ktor](https://ktor.io) for Web
+    - [Ktor](https://ktor.io) for APIs'
     - [Compose](https://www.jetbrains.com/lp/compose-mpp/) for Desktop
     - [Figma](https://www.figma.com) for UI/UX
     
