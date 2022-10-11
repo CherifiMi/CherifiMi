@@ -5,8 +5,11 @@
     - [Compose](https://www.jetbrains.com/lp/compose-mpp/) for Desktop
     - [Figma](https://www.figma.com) for UI/UX
     
-- 🌱I’m currently learning [Rust](https://doc.rust-lang.org/book/) and [data structures and algorithma](leetcode.com/problemset/all/)
-
+- 🌱I’m currently learning:
+    - [Rust](https://doc.rust-lang.org/book/) 
+    - [data structures and algorithma](leetcode.com/problemset/all/)
+    - [GraphQL](https://graphql.org/)
+    - [simulation of nature in code](https://natureofcode.com/book/chapter-2-forces/)
 
 ### 👨‍💻Languages
 
