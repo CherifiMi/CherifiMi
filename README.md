@@ -18,7 +18,7 @@
 
  
  <details>
-  <summary><b>🛠&nbsp;&nbsp;Tools/Frameworks&nbsp</b></summary>
+  <summary><b>&nbsp;&nbsp;Tools/Frameworks&nbsp</b></summary>
   <br/>
   
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,dotnet,figma,heroku,idea,rust,mongodb,ktor,java,kotlin,visualstudio,sqlite,vscode)](https://skillicons.dev)
