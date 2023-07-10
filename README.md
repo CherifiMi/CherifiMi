@@ -8,7 +8,6 @@
 - I’m currently learning:
     - [Rust](https://doc.rust-lang.org/book/) 
     - [data structures and algorithma](leetcode.com/problemset/all/)
-    - [GraphQL](https://graphql.org/)
     - [simulation of nature in code](https://natureofcode.com/book/chapter-2-forces/)
 
 ### Languages
